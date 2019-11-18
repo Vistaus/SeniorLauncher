@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Startscherm voor senioren</string>
+    <string name="call">Bellen</string>
+    <string name="images">Afbeeldingen</string>
+    <string name="show_images">Alle afbeeldingen tonen</string>
+    <string name="go_back">&lt;&lt;&lt; Ga terug</string>
+    <string name="emergency_number">112</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="loading">Bezig met laden; even geduld&#8230;</string>
+</resources>
